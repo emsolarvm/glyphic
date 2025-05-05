@@ -10,4 +10,3 @@ The sandbox allows users to:
 
 The underlying engine is proprietary and not exposed in this repo.
 
-## Project Structure
